@@ -1,1 +1,8 @@
-# Space-cybersecurity-analysis
+JSON
+{
+  "target_name": "South Lebanon Border Sector",
+  "latitude": 33.273,
+  "longitude": 35.356,
+  "bounding_box": [35.15, 33.10, 35.55, 33.45],
+  "keywords": ["South Lebanon", "Litani", "Tyre", "border sector", "infrastructure damage", "satellite observation"]
+}
